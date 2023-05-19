@@ -1,0 +1,2 @@
+show_berserk 0
+sts_traditional_keys 0
