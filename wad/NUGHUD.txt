@@ -7,15 +7,21 @@
 
 ; BOOM WIDGETS -----------------------------------------------------------------
 
+; map title
+nughud_title_x 5
+nughud_title_y 147
+nughud_title_wide  -1
+nughud_title_align -1
+
 ; time
-nughud_time_x 3
-nughud_time_y 153
+nughud_time_x 6
+nughud_time_y 155
 nughud_time_wide -1
 nughud_time_sts 1
 
 ; level stats
-nughud_sts_x 3
-nughud_sts_y 161
+nughud_sts_x 6
+nughud_sts_y 162
 nughud_sts_wide -1
 
 

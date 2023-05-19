@@ -10,11 +10,7 @@ A new, modern HUD layout for the Nugget Doom source port.
 - restored HEALTH/ARMOR/AMMO stbar labels
 - support both 4:3 and Widescreen aspect ratios
 - tweaked palette for STGNUMx and STYSNUMx lumps
-
-
-## Limitations:
-- to ensure consistency across pwads, this wad includes stock DOOM2.WAD graphics assets
-- for the same reason as the above, this wad should be loaded AFTER all other pwads
+- crispy hud look & feel, even when using PWAD (thanks to NUGHUD's font override feature)
 
 
 ## Downloads:
